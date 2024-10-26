@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar Jangid</h1>
-<h3 align="center">An AI/ML Developer with expertise in **backend development**, **deep learning**, and **NLP**. I love solving complex problems with machine learning models and automating backend processes.</h3>
+<h3 align="center">An AI/ML Developer with expertise in **Backend Development**, **Deep Learning**, and **NLP**. I love solving complex problems with machine learning models and automating backend processes.</h3>
 
 - 🔭 I’m currently working on **Audio/Video Candidate Tracking System.**
 
